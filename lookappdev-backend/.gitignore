@@ -1,0 +1,10 @@
+# Ignore .NET build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.vs
+*.vscode
+*.DS_Store
